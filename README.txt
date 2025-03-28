@@ -1,4 +1,9 @@
-﻿Important:
+A control tower controls all aircraft traffic, and determines when airplanes are to be allowed to 
+take-off, change route, and land. In this application we the application only prepare the planes on 
+the runway for take-off. The control tower should simply add a flight number, and set the airplane
+permission to start.
+
+Important:
 Please note that the projects in this folder where developed using Visual Studio, VS. Be prepared to 
 launch, alternatively upon instruction from VS, re-launch VS with administrator status when one compiles 
 a project.
